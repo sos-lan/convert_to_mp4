@@ -9,7 +9,7 @@ setlocal enabledelayedexpansion
 :: ==========================================
 set "ffmpeg_path=C:\ffmpeg\bin\ffmpeg.exe"
 set "ffprobe_path=C:\ffmpeg\bin\ffprobe.exe"
-set "output_root=E:\converted_files\vaineri"
+set "output_root=E:\converted_files"
 
 :: Запоминаем папку, где лежит сам скрипт (базовая папка)
 set "base_dir=%CD%"
